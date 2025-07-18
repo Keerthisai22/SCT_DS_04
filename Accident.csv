@@ -1,0 +1,6 @@
+ID,Time,City,Weather,Severity,Time of Day
+1,8:00 AM,Houston,Clear,2,Day
+2,6:30 PM,Dallas,Rain,3,Evening
+3,10:00 PM,Miami,Fog,4,Night
+4,7:15 AM,Chicago,Cloudy,2,Morning
+5,5:45 PM,Los Angeles,Clear,1,Evening
